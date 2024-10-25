@@ -1,0 +1,22 @@
+.inline-block .card {
+    display: inline-block;
+    margin: 25px;
+}
+
+.img {
+    margin: 15px;
+}
+
+a {
+    text-decoration: none;
+    padding: 3px 3px;
+    background-color: crimson;
+    color: #fff;
+    margin: 11px;
+    text-align: center;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #fff;
+}
